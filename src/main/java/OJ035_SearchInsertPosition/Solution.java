@@ -1,7 +1,7 @@
 package OJ035_SearchInsertPosition;
 
 /**
- * Created by zhangyayun on 2017/2/16.
+ * Created by zhangyayun on 2017/2/15.
  */
 public class Solution {
     public int searchInsert(int[] nums, int target) {

@@ -1,7 +1,7 @@
 package OJ038_CountAndSay;
 
 /**
- * Created by zhangyayun on 2017/2/16.
+ * Created by zhangyayun on 2017/2/15.
  */
 public class Solution {
     public String countAndSay(int n) {
